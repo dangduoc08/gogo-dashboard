@@ -1,0 +1,8 @@
+{
+  "root": true,
+  "rules": {
+    "no-var": "warn"
+  },
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "ignorePatterns": ["node_modules/", "build/", "dist/", ".next"]
+}
