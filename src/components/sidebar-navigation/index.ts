@@ -1,1 +1,1 @@
-export * from './SidebarNavigation'
+export * from './interfaces'
